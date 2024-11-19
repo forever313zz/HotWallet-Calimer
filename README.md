@@ -2,9 +2,10 @@ this script is useful for claiming hot near for 24/7 is more practical than you 
 
 kode ini berasal dari githhub: widiskel
 1. Clone repository:
-   ```bash
-   git clone https://github.com/forever313zz/HotWallet-Calimer
-  2. Masuk ke direktori:
+ ```bash
+ git clone https://github.com/forever313zz/HotWallet-Calimer
+```
+  3. Masuk ke direktori:
   ```bash
 cd HotWallet-Calimer
 ```
