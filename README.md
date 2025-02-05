@@ -1,6 +1,5 @@
 this script is useful for claiming hot near for 24/7 is more practical than you claim manually
 
-kode ini berasal dari githhub: widiskel
 1. Clone repository:
  ```bash
  git clone https://github.com/forever313zz/HotWallet-Calimer
